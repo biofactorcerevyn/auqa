@@ -204,7 +204,7 @@
 
 
 
-import newFooterLogo from "../assets/Aquaphilic.jpg";
+import newFooterLogo from "../assets/Aquaphilic-removebg.png";
 import {
   Linkedin,
   Youtube,

@@ -472,7 +472,7 @@ import { CoastalMap } from "./components/CoastalMap";
 import { Toaster } from "./components/ui/sonner";
 import { JoinOurNetwork } from "./components/JoinOurNetwork";
 import { Career } from "./components/Career";
-import newLogo from "./assets/Aquaphilic.jpg";
+import newLogo from "./assets/Aquaphilic-removebg.png";
 import splashVideo from "./assets/bubble.mp4";
 
 /* ------------------------------------------------------------------ */

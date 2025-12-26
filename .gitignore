@@ -6,7 +6,7 @@ dist
 .vscode
 .idea
 
-    .github
+.github
 coverage
 npm-debug.log*
 
